@@ -18,7 +18,7 @@ Simple web app allowing the user to pick a random game from they Steam library b
 
 ### 1. Cloning
 ```bash
-git clone [https://github.com/Smarkk2367/SteamShuffle.git](https://github.com/Smarkk2367/SteamShuffle.git)
+git clone https://github.com/Smarkk2367/SteamShuffle.git
 cd steam-shuffle
 ```
 
